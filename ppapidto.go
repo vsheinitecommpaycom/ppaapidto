@@ -1,4 +1,4 @@
-package dto
+package ppaapidto
 
 type QueryParametersDto struct {
 	DateSince  string   `json:"dateSince"`
